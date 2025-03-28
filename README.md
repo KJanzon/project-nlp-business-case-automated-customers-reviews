@@ -16,4 +16,8 @@ What was done:
 
 
 Files: 
+- sentiment.ipynb: sentiment analysis
+- categories.ipynb: categorisation
+- review_summarisation.ipynb: write article per category
+- app.py: deploy to a web page
 - 
