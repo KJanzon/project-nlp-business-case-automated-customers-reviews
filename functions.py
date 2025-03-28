@@ -1,3 +1,5 @@
+## Initially I wanted to put more common functions in here, but it the end it was just one.
+
 import pandas as pd
 
 
