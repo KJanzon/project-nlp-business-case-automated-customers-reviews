@@ -4,14 +4,14 @@ import os
 
 # Set up
 st.set_page_config(page_title="Amazon Product Reviews", layout="centered")
-st.title("🛍️ Amazon Product Review Summaries")
-st.markdown("Explore our consumer-style summaries of top Amazon products based on real user reviews.")
+st.title("🛍 Amazon Product Review Insights")
+st.markdown("See summarised insights of Amazon products in different categories. This is based on thousands of real user reviews.")
 
 # Dropdown to select category
 categories = {
     "Tablet": "tablet.md",
     "Smart Speaker": "smart_speaker.md",
-    "E-reader": "e_reader.md"
+    "E-reader": "e-reader.md"
 }
 
 category = st.selectbox("Select a Product Category", list(categories.keys()))
