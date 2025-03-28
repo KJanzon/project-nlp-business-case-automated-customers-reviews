@@ -19,5 +19,8 @@ Files:
 - sentiment.ipynb: sentiment analysis
 - categories.ipynb: categorisation
 - review_summarisation.ipynb: write article per category
-- app.py: deploy to a web page
-- 
+- app.py: deploy to a web page using Streamlit
+- functions.py: common functions 
+- requiremts.txt; requirements for deploying
+- all_requirements.txt: requirements for the rest of the project
+- product_articles: generated articles
