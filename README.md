@@ -12,10 +12,12 @@ What was done:
 - Prompt-tuning.
 - Deployment of a website with review summaries per category: [Reviews summaries](https://project-nlp-business-case-automated-customers-reviews-i9hz7yj4.streamlit.app/)
 
+
+## Example output:
 <img width="753" alt="Screenshot 2025-03-28 at 12 56 50" src="https://github.com/user-attachments/assets/8a48c549-31f6-4253-97c6-51b251956dd7" />
 
 
-Files: 
+## Files: 
 - sentiment.ipynb: sentiment analysis
 - categories.ipynb: categorisation
 - review_summarisation.ipynb: write article per category
